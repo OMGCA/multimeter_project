@@ -1,0 +1,30 @@
+Dependencies for Project 'LEDs', Target 'STM32F407 Flash': (DO NOT MODIFY !)
+F (.\LED.c)(0x5A6B1BB1)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\RTE\_STM32F407_Flash-IC:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DKEIL_IDE -DHSE_VALUE="8000000" -DPLL_M="8" -DPLL_N="336" -DPLL_P="2" -DPLL_Q="7"-o .\flash\led.o --omf_browse .\flash\led.crf --depend .\flash\led.d)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\STM32F4xx.h)(0x58233DD8)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x58233DEA)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\ARMCC\include\stdint.h)(0x57F66928)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x58233DEA)
+I (LED.h)(0x5A6B22D7)
+F (.\LEDs.c)(0x5A6B23B1)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\RTE\_STM32F407_Flash-IC:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DKEIL_IDE -DHSE_VALUE="8000000" -DPLL_M="8" -DPLL_N="336" -DPLL_P="2" -DPLL_Q="7"-o .\flash\leds.o --omf_browse .\flash\leds.crf --depend .\flash\leds.d)
+I (C:\KEIL_V5\ARM\ARMCC\include\stdio.h)(0x57F66928)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\STM32F4xx.h)(0x58233DD8)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x58233DEA)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\ARMCC\include\stdint.h)(0x57F66928)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x58233DEA)
+I (LED.h)(0x5A6B22D7)
+F (.\Abstract.txt)(0x4F58A98E)()
+F (RTE\Device\STM32F407VG\startup_stm32f407xx.s)(0x587F14D2)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_STM32F407_Flash-IC:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1"--list .\flash\startup_stm32f407xx.lst --xref -o .\flash\startup_stm32f407xx.o --depend .\flash\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407VG\system_stm32f4xx.c)(0x587F14D2)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\RTE\_STM32F407_Flash-IC:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DKEIL_IDE -DHSE_VALUE="8000000" -DPLL_M="8" -DPLL_N="336" -DPLL_P="2" -DPLL_Q="7"-o .\flash\system_stm32f4xx.o --omf_browse .\flash\system_stm32f4xx.crf --depend .\flash\system_stm32f4xx.d)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x58233DD8)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x58233DEA)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\ARMCC\include\stdint.h)(0x57F66928)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898ABFA)
+I (C:\KEIL_V5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x58233DEA)

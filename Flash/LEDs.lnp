@@ -1,0 +1,9 @@
+--cpu=Cortex-M4.fp
+".\flash\led.o"
+".\flash\leds.o"
+".\flash\startup_stm32f407xx.o"
+".\flash\system_stm32f4xx.o"
+--strict --scatter ".\Flash\LEDs.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Flash\LEDs.map" -o .\Flash\LEDs.axf

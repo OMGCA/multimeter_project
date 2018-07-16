@@ -1,0 +1,8 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "vs-seti",
+    "editor.fontFamily": "Inconsolata, 'Inconsolata', monospace",
+    "files.associations": {
+        "led.h": "c"
+    },
+}
